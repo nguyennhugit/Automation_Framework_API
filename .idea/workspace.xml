@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90afa301-69cb-442c-a054-7db31532b943" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3Fsmp8yO64yo3mYqh4ngYfPij1Q" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "TestNG.CreateProducts.executor": "Run",
+    "TestNG.CreateProductsApi.executor": "Run",
+    "TestNG.DeleteProducts.executor": "Run",
+    "TestNG.GetProducts.executor": "Run",
+    "TestNG.GetProductsDetailByName.executor": "Run",
+    "TestNG.GetProductsDetailbyID.executor": "Run",
+    "TestNG.GetProducts_DetailByName.executor": "Run",
+    "TestNG.GetProducts_Detail_by_ID.executor": "Run",
+    "TestNG.LogInUser.executor": "Run",
+    "TestNG.LogIn_User.executor": "Run",
+    "TestNG.LogIn_Usercr.executor": "Run",
+    "TestNG.RegisterExistingUser.executor": "Run",
+    "TestNG.RegisterSuccessUser (1).executor": "Run",
+    "TestNG.RegisterSuccessUser.executor": "Run",
+    "TestNG.Register_Success_User.executor": "Run",
+    "TestNG.Register_User_API.executor": "Run",
+    "TestNG.UpdateProductDetailById.executor": "Run",
+    "TestNG.UpdateProductDetailByIdYetfix.executor": "Run",
+    "TestNG.UpdateProducts.executor": "Run",
+    "TestNG.UpdateProductsID.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.api.login" />
+      <recent name="com.api.practice.improve.api" />
+      <recent name="com.api.practice.dto" />
+      <recent name="com.api.practice" />
+      <recent name="com.api.practice.register.api" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.UpdateProductsID">
+    <configuration name="CreateProductsApi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_API_Rest_Assure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.api.practice.improve.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.api.practice.improve.api" />
+      <option name="MAIN_CLASS_NAME" value="com.api.practice.improve.api.CreateProductsApi" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteProducts" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_API_Rest_Assure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.api.practice.improve.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.api.practice.improve.api" />
+      <option name="MAIN_CLASS_NAME" value="com.api.practice.improve.api.DeleteProducts" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetProductsDetailByName" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_API_Rest_Assure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.api.practice.improve.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.api.practice.improve.api" />
+      <option name="MAIN_CLASS_NAME" value="com.api.practice.improve.api.GetProductsDetailByName" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetProductsDetailbyID" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_API_Rest_Assure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.api.practice.improve.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.api.practice.improve.api" />
+      <option name="MAIN_CLASS_NAME" value="com.api.practice.improve.api.GetProductsDetailbyID" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateProductsID" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_API_Rest_Assure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.api.practice.improve.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.api.practice.improve.api" />
+      <option name="MAIN_CLASS_NAME" value="com.api.practice.improve.api.UpdateProductsID" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.UpdateProductsID" />
+        <item itemvalue="TestNG.DeleteProducts" />
+        <item itemvalue="TestNG.CreateProductsApi" />
+        <item itemvalue="TestNG.GetProductsDetailByName" />
+        <item itemvalue="TestNG.GetProductsDetailbyID" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90afa301-69cb-442c-a054-7db31532b943" name="Changes" comment="" />
+      <created>1782872333359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782872333359</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/api/practice/register/api/UpdateProductsID.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/api/practice/improve/api/CreateProductsApi.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
