@@ -14,6 +14,7 @@ public class CreateProductApicopy {
     private static final String CREATEPRODUCT_URL= API_URL1 + "/api/products";
     private static CreateProductApicopy instance;
     private String token;
+    private String token2;
 
     private CreateProductApicopy(){
     }
