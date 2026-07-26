@@ -12,10 +12,6 @@ public class CreateProductApicopy {
     private static final String API_URL1 = "http://localhost:8080";
     private static final String LOGIN_API_URL = API_URL1 + "/api/auth/login";
     private static final String CREATEPRODUCT_URL= API_URL1 + "/api/products";
-    private static final String CREATEPRODUCT_URL1= API_URL1 + "/api/products";
-
-    private static final String CREATEPRODUCT_URL12= API_URL1 + "/api/products";
-
     private static CreateProductApicopy instance;
     private String token;
 
